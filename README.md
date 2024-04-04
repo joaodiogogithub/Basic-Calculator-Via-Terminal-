@@ -1,17 +1,24 @@
-# BASIS CALCULATOR (via terminal)
+# BASIS CALCULATOR (Via Terminal)/ Calculadora Basica (Via Terminal)
 
-Introduce
+Introduce/Introdução
 
-- Calculator functions:
-  - Addition
-  - Subtraction
-  - Multiplication
-  - Division
-  - Register of results
+- Has two languages suport | - Suporte para duas linguas
 
-- To use:
-  - Open terminal
-  - Find the folder
-  - ./build
+- Calculator functions/Funções da calculadora
+  - Addition/Soma
+  - Subtraction/Subtração
+  - Multiplication/Multiplicação
+  - Division/Divisão
+  - Register of results/Resultados anteriores
 
- 
+- To use:                 -Para usar:
+  - Open terminal           - Abra o terminal
+  - Find the folder         - Encontre a pasta
+  - ./build_US              - ./build_BR
+
+# Versão PT-BR
+ ![alt text](image.png)
+
+
+ # US version
+ ![alt text](image-1.png)

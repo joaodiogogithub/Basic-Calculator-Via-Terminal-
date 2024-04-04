@@ -1,4 +1,4 @@
-# BASIS CALCULATOR (Via Terminal)/ Calculadora Basica (Via Terminal)
+# Basic Calculator (Via Terminal)/ Calculadora Basica (Via Terminal)
 
 Introduce/Introdução
 
